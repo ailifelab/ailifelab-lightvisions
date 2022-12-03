@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "学院异闻录"
-img: 2022/2022-08-11-000.jpg # Add image post (optional)
+img: https://s3.uuu.ovh/imgs/2022/11/30/b25085ed443d478d.jpg
 date: 2022-08-11 18:54:00 +0800
 description: 战损妆 # Add post description (optional)
 tag: [昆明约拍,昆明拍照,写真,情绪,情绪片,情绪肖像]
